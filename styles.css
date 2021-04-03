@@ -100,7 +100,7 @@ main {
 
 .content2 {
   grid-area: content2;
-  background: url("/img/mundo-animal.jpg");
+  background: url("img/mundo-animal.jpg");
   background-size: cover;
   background-position: 50% 50%;
   border-radius: var(--main-radius);
