@@ -83,7 +83,7 @@ main {
 
 .sidebar {
   grid-area: sidebar;
-  background: url("/img/Dinho-Sergio-Reoli-Samuel-Reoli-Alberto-Hinoto-e-Julio-Cesar-Barbosa-integra.jpg");
+  background: url("img/Dinho-Sergio-Reoli-Samuel-Reoli-Alberto-Hinoto-e-Julio-Cesar-Barbosa-integra.jpg");
   background-position: 50% 50%;
   background-size: cover;
   border-radius: var(--main-radius);
@@ -92,7 +92,7 @@ main {
 
 .content1 {
   grid-area: content1;
-  background: url("/img/braslia-amarela.jpg");
+  background: url("img/braslia-amarela.jpg");
   background-size: cover;
   background-position: 50% 50%;
   border-radius: var(--main-radius);
@@ -101,7 +101,7 @@ main {
 
 .content2 {
   grid-area: content2;
-  background: url("/img/mundo-animal.jpg");
+  background: url("img/mundo-animal.jpg");
   background-size: cover;
   background-position: 50% 50%;
   border-radius: var(--main-radius);
